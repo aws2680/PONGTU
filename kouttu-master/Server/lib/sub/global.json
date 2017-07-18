@@ -1,0 +1,8 @@
+{
+	"ADMIN": [ "aws2680" ],
+	"MAIN_PORTS": [ 8080 ],
+	"KKUTUHOT_PATH": "/kkutu/data/kkutuhot.json",
+	"PASS":"samsung00",
+	"PG_PASS": "samsung00",
+	"PG_PORT": 5432
+}
