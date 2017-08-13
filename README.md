@@ -1,5 +1,3 @@
-# PONGTU
-pongtu
 # KKuTu
 - Made by [JJoriping](http://blog.jjo.kr/)
 - Special thanks to
